@@ -15,4 +15,4 @@ Despite roots in the military, OPSEC can be used by everyone in every field and 
 
 ## Ready to get started? 
 
-[🟢 Start the Wizard]()
+[🟢 Start the Wizard](start.md)
